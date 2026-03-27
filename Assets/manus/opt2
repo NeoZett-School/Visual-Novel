@@ -1,0 +1,20 @@
+---- 1 Oh no!
+The Walk Away
+Narrator, Park Daylight
+Jack walks away. A day pass by quickly, and they meet at the park on midday.
+---- 2
+The Walk Away
+Jack:neutral, Park Daylight
+Hey, Sophia. How are you?
+---- 3
+The Walk Away
+Narrator, Park Daylight
+Sophia is not in the mood of talking and runs away yet again. Jack run after her. 
+---- 1 We may find a way around
+The Recalibration
+Sophia:sad, Room Daylight
+Let me be alone!
+---- 2
+The Recalibration
+CHOICE: Comfort, Neglect
+Does Jack like Sophia?

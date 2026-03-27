@@ -1,0 +1,57 @@
+---- 1 We begin outdoors
+The Beginning
+Jack:neutral, Park Daylight
+Hello there!
+---- 2
+The Beginning
+Sophia:happy, Park Daylight
+Hi, Jack!
+---- 3
+The Beginning
+Jack:neutral, Park Daylight
+What brings you here today?
+---- 4
+The Beginning
+Sophia:happy, Park Daylight
+Lets go to the bar.
+---- 1 Once we enter the bar, we settle the dynamic
+The Bar
+Jack:neutral, Bar Daylight
+What is it?
+---- 2
+The Bar
+Sophia:happy, Bar Daylight
+Nothing special... just something I wanted to tell you...
+---- 3
+The Bar
+Narrator, Bar Daylight
+Sophias' hand gently found Jacks' on the bar table before them.
+---- 4
+The Bar
+Jack:serious, Bar Daylight
+Okay, you can tell me?
+---- 5
+The Bar
+Sophia:blushing, Bar Daylight
+Well... I like you Jack. I have always been fond of you 
+in a special kind of way~
+---- 6
+The Bar
+Jack:blushing, Bar Daylight
+What? Are you sure, Sophia?
+---- 7
+The Bar
+Sophia:blushing, Bar Daylight
+Ah... yes I am...
+---- 8
+The Bar
+Narrator, Bar Daylight
+Sophia briskly stood up and rushed out of the bar.
+---- 1 Let us get running, boys!
+The Running
+Jack:flustered, Park Daylight
+Hey! Wait!
+---- 2
+The Running
+CHOICE: Run After, Walk Away
+What do you do?
