@@ -606,10 +606,12 @@ def load_all_manus():
     manus6.extend(load_manus(manus_path[5]))
     manus7.clear()
     manus7.extend(load_manus(manus_path[6]))
+    manus8.clear()
+    manus8.extend(load_manus(manus_path[7]))
 
     manus_list.clear()
     manus_list.extend([
-        manus1, manus2, manus3, manus4, manus5, manus6, manus7
+        manus1, manus2, manus3, manus4, manus5, manus6, manus7, manus8
     ])
 
 manus1 = []
@@ -619,6 +621,7 @@ manus4 = []
 manus5 = []
 manus6 = []
 manus7 = []
+manus8 = []
 
 manus_list = []
 
@@ -630,6 +633,7 @@ manus_path = [
     THIS_PATH + MANUS + "opt4",
     THIS_PATH + MANUS + "opt5",
     THIS_PATH + MANUS + "opt6",
+    THIS_PATH + MANUS + "opt7"
 ]
 
 load_all_manus()
@@ -641,7 +645,8 @@ manus_names = [
     "Another Way Around",
     "Deep Dark",
     "Long Run",
-    "So Long Ago"
+    "So Long Ago",
+    "Only Easter"
 ]
 
 choice_to_manus_index = {
@@ -652,13 +657,15 @@ choice_to_manus_index = {
     "deep dark": 4,
     "long run": 5,
     "so long ago": 6,
+    "only easter": 7,
     "entry": 0,
     "run after": 1,
     "walk away": 2,
     "comfort": 3,
     "neglect": 4,
     "lovely words": 6,
-    "just friends": 5
+    "just friends": 5,
+    "take her hand": 7
 }
 
 manus_index = 0
